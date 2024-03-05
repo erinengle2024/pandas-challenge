@@ -48,7 +48,7 @@ Charter schools consistently surpass district schools in both math and overall p
 ![image](https://github.com/erinengle2024/pandas-challenge/assets/158017994/39203c68-aafd-4e0a-a078-b7025b304631)
 
   ## Additional Resources
-For syntax that I was not familiar with, such as formating percentages, and returning values, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Pandas Documentation, and ChatGPT.  
+For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Pandas Documentation, and ChatGPT.  
 
 
 
