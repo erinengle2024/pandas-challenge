@@ -1,7 +1,7 @@
 # pandas-challenge
 Welcome to my submission for the Pandas-Challenge in module 4 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in pandas library and Jupyter notebook, particularly in the context of data analytics.
 # Challenge Description
-In this challenge, our objective was to create a report using two separate CSV files—one containing data on school districs and the other containing student data from each said schools.  Below, you'll find the detailed requirements of the challenge.
+In this challenge, our objective was to create a report using two separate CSV files—one containing data on school districts and the other containing student data from each said schools.  Below, you'll find the detailed requirements of the challenge.
 ![image](https://github.com/erinengle2024/pandas-challenge/assets/158017994/b7478313-869e-42bf-ae35-ec44c9ed41c7)
 ![image](https://github.com/erinengle2024/pandas-challenge/assets/158017994/0c4e526b-59c8-446c-b159-f67d631d5a0b)
 ![image](https://github.com/erinengle2024/pandas-challenge/assets/158017994/7fb45532-5d9e-4860-8816-41ca5e396f9b)
